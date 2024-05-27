@@ -110,7 +110,7 @@ section {
 #profile {
   background: 
     linear-gradient(#00000080, rgba(0, 0, 0, 0.7)), /* Dark overlay */
-    url('/images/galaxy-bg.jpg');
+    url('images/galaxy-bg.jpg');
 }
 
 .section-pic-container {
